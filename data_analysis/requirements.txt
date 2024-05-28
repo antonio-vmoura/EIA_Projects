@@ -1,0 +1,11 @@
+matplotlib==3.3.1
+nltk==3.5
+numpy==1.19.1
+pandas==1.1.1
+plotly==4.9.0
+pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-2.3.0/pt_core_news_sm-2.3.0.tar.gz
+seaborn==0.10.1
+sklearn==0.0
+spacy==2.3.2
+string-grouper==0.1.1
+wordcloud==1.8.0
